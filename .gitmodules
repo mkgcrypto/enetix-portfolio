@@ -1,0 +1,9 @@
+[submodule "enetix-portfolio-frontend"]
+	path = enetix-portfolio-frontend
+	url = https://github.com/mkgcrypto/enetix-portfolio-frontend.git
+[submodule "enetix-portfolio-backend"]
+	path = enetix-portfolio-backend
+	url = https://github.com/mkgcrypto/enetix-portfolio-backend.git
+[submodule "enetix-portfolio-shared"]
+	path = enetix-portfolio-shared
+	url = https://github.com/mkgcrypto/enetix-portfolio-shared.git
